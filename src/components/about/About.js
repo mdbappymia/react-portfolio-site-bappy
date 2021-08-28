@@ -1,6 +1,6 @@
 
 import React from "react";
-import myImg from './../dist/images/my-image.png'
+import myImg from '../../dist/images/my-image.png'
 import './about.css'
 import ProgressLine from "./ProgressLine";
 

@@ -6,7 +6,7 @@ const Header = () => {
       <h1>Hi</h1>
       <h2 className="my-4">
         This is{" "}
-        <span className="animate__animated animate__heartBeat animate__infinite infinite animate__slower 2s text-warning fw-bolder f-3 text-uppercase">
+        <span className="animate__animated animate__fadeIn fadeOut animate__infinite infinite animate__slower 2s text-warning fw-bolder f-3 text-uppercase">
           Md. Bappy Mia
         </span>
       </h2>
